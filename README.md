@@ -106,4 +106,5 @@ vactestask
 	Возможны и другие удобные на ваш взгляд варианты с отсылкой нам на почту.
 
 4. Почта:
+	developer@bourevestnik.spb.ru
 	bourevestnik.devel.team@gmail.com
